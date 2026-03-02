@@ -6,7 +6,7 @@
 ### Project
 - UI
 	- Compose UI
-- Architecture
+- Architecture
 	- CleanArchitecture
 	- MVI
 - DI
